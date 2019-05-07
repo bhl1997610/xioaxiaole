@@ -1,0 +1,10 @@
+<res>
+   <item name="comp" type="" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="home" type="" compress="0" pack="0" quality="80" props="" picType="0" scale="0"/>
+   <item name="home/foucsmc1.png" type="Image" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="home/foucsmc2.png" type="Image" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="home/foucsmc4.png" type="Image" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="home/foucsmc3.png" type="Image" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="home/foucsmc5.png" type="Image" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="home/foucsmc6.png" type="Image" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+</res>
