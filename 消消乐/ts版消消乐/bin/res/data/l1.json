@@ -1,0 +1,15 @@
+{
+
+		"map":[],
+		"step":20,
+		"element":[0,1,2,3],
+		"levelreq":
+		[
+			{"type":"3","num":"20"},
+			{"type":"0","num":"20"},
+			{"type":"2","num":"20"},
+			{"type":"1","num":"20"}
+		],
+		"levelbgimg":"level_0001_background.png"
+
+}

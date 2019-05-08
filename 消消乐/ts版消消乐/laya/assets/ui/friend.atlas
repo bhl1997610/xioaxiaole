@@ -1,0 +1,314 @@
+{
+    "frames": {
+        "icon_zs.png": {
+            "frame": {
+                "h": 35,
+                "idx": 0,
+                "w": 44,
+                "x": 467,
+                "y": 214
+            },
+            "sourceSize": {
+                "h": 36,
+                "w": 44
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "image_close.png": {
+            "frame": {
+                "h": 44,
+                "idx": 0,
+                "w": 88,
+                "x": 400,
+                "y": 127
+            },
+            "sourceSize": {
+                "h": 44,
+                "w": 88
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "img_LV.png": {
+            "frame": {
+                "h": 29,
+                "idx": 0,
+                "w": 46,
+                "x": 445,
+                "y": 92
+            },
+            "sourceSize": {
+                "h": 31,
+                "w": 59
+            },
+            "spriteSourceSize": {
+                "x": 1,
+                "y": 1
+            }
+        },
+        "img_add.png": {
+            "frame": {
+                "h": 41,
+                "idx": 0,
+                "w": 39,
+                "x": 427,
+                "y": 214
+            },
+            "sourceSize": {
+                "h": 43,
+                "w": 41
+            },
+            "spriteSourceSize": {
+                "x": 1,
+                "y": 1
+            }
+        },
+        "img_diamond.png": {
+            "frame": {
+                "h": 41,
+                "idx": 0,
+                "w": 41,
+                "x": 427,
+                "y": 172
+            },
+            "sourceSize": {
+                "h": 43,
+                "w": 43
+            },
+            "spriteSourceSize": {
+                "x": 1,
+                "y": 1
+            }
+        },
+        "img_gold.png": {
+            "frame": {
+                "h": 42,
+                "idx": 0,
+                "w": 43,
+                "x": 353,
+                "y": 34
+            },
+            "sourceSize": {
+                "h": 44,
+                "w": 46
+            },
+            "spriteSourceSize": {
+                "x": 1,
+                "y": 1
+            }
+        },
+        "img_haoyou.png": {
+            "frame": {
+                "h": 82,
+                "idx": 0,
+                "w": 199,
+                "x": 0,
+                "y": 91
+            },
+            "sourceSize": {
+                "h": 84,
+                "w": 201
+            },
+            "spriteSourceSize": {
+                "x": 1,
+                "y": 1
+            }
+        },
+        "img_jrbg.png": {
+            "frame": {
+                "h": 57,
+                "idx": 0,
+                "w": 60,
+                "x": 445,
+                "y": 34
+            },
+            "sourceSize": {
+                "h": 57,
+                "w": 60
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "img_select.png": {
+            "frame": {
+                "h": 92,
+                "idx": 0,
+                "w": 44,
+                "x": 400,
+                "y": 34
+            },
+            "sourceSize": {
+                "h": 96,
+                "w": 48
+            },
+            "spriteSourceSize": {
+                "x": 2,
+                "y": 2
+            }
+        },
+        "img_yc.png": {
+            "frame": {
+                "h": 82,
+                "idx": 0,
+                "w": 199,
+                "x": 200,
+                "y": 91
+            },
+            "sourceSize": {
+                "h": 84,
+                "w": 201
+            },
+            "spriteSourceSize": {
+                "x": 1,
+                "y": 1
+            }
+        },
+        "lable_djshuliang.png": {
+            "frame": {
+                "h": 90,
+                "idx": 0,
+                "w": 352,
+                "x": 0,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 90,
+                "w": 352
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "progress$bar.png": {
+            "frame": {
+                "h": 22,
+                "idx": 0,
+                "w": 426,
+                "x": 0,
+                "y": 197
+            },
+            "sourceSize": {
+                "h": 22,
+                "w": 426
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "progress.png": {
+            "frame": {
+                "h": 22,
+                "idx": 0,
+                "w": 426,
+                "x": 0,
+                "y": 174
+            },
+            "sourceSize": {
+                "h": 22,
+                "w": 426
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "tab_hy0.png": {
+            "frame": {
+                "h": 33,
+                "idx": 0,
+                "w": 145,
+                "x": 353,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 33,
+                "w": 145
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "vscroll$bar.png": {
+            "frame": {
+                "h": 63,
+                "idx": 0,
+                "w": 17,
+                "x": 489,
+                "y": 122
+            },
+            "sourceSize": {
+                "h": 63,
+                "w": 17
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "vscroll$down.png": {
+            "frame": {
+                "h": 51,
+                "idx": 0,
+                "w": 17,
+                "x": 0,
+                "y": 220
+            },
+            "sourceSize": {
+                "h": 51,
+                "w": 17
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "vscroll$up.png": {
+            "frame": {
+                "h": 51,
+                "idx": 0,
+                "w": 17,
+                "x": 18,
+                "y": 220
+            },
+            "sourceSize": {
+                "h": 51,
+                "w": 17
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "vscroll.png": {
+            "frame": {
+                "h": 33,
+                "idx": 0,
+                "w": 17,
+                "x": 469,
+                "y": 172
+            },
+            "sourceSize": {
+                "h": 33,
+                "w": 17
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        }
+    },
+    "meta": {
+        "image": "friend.png",
+        "prefix": "friend/"
+    }
+}
