@@ -43,7 +43,7 @@ module net {
         }
         public onMessageReveived(msg) {
             // TODO登录成功
-
+            //aaa
             let dialog = ui.dialog.instance;
             let login = ui.login.instance;
             console.log("socket message");
