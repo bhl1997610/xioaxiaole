@@ -21,7 +21,7 @@ class GameMain {
         Laya.stage.frameRate = Laya.Stage.FRAME_MOUSE;
 
         GameMain.Instance = this;
-        //test
+        
        
         // this.MapData.name = "MainGame";
         //获取数据(用户数据，配置数据解析);
